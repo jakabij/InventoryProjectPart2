@@ -1,0 +1,11 @@
+C:\CodeCool\C#\SI_2\InventoryProject\InventoryProject\bin\Debug\netcoreapp3.1\InventoryProject.exe
+C:\CodeCool\C#\SI_2\InventoryProject\InventoryProject\bin\Debug\netcoreapp3.1\InventoryProject.deps.json
+C:\CodeCool\C#\SI_2\InventoryProject\InventoryProject\bin\Debug\netcoreapp3.1\InventoryProject.runtimeconfig.json
+C:\CodeCool\C#\SI_2\InventoryProject\InventoryProject\bin\Debug\netcoreapp3.1\InventoryProject.runtimeconfig.dev.json
+C:\CodeCool\C#\SI_2\InventoryProject\InventoryProject\bin\Debug\netcoreapp3.1\InventoryProject.dll
+C:\CodeCool\C#\SI_2\InventoryProject\InventoryProject\bin\Debug\netcoreapp3.1\InventoryProject.pdb
+C:\CodeCool\C#\SI_2\InventoryProject\InventoryProject\obj\Debug\netcoreapp3.1\InventoryProject.csprojAssemblyReference.cache
+C:\CodeCool\C#\SI_2\InventoryProject\InventoryProject\obj\Debug\netcoreapp3.1\InventoryProject.AssemblyInfoInputs.cache
+C:\CodeCool\C#\SI_2\InventoryProject\InventoryProject\obj\Debug\netcoreapp3.1\InventoryProject.AssemblyInfo.cs
+C:\CodeCool\C#\SI_2\InventoryProject\InventoryProject\obj\Debug\netcoreapp3.1\InventoryProject.dll
+C:\CodeCool\C#\SI_2\InventoryProject\InventoryProject\obj\Debug\netcoreapp3.1\InventoryProject.pdb

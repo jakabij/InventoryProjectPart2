@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="System.Xml.Serialization.XmlArrayAttribute">
+  <Product xsi:type="BookProduct" name="Star Wars" price="3500" size="420" />
+  <Product xsi:type="BookProduct" name="Game of Thrones" price="4999" size="2000" />
+  <Product xsi:type="CDProduct" name="Song1" price="2100" size="1" />
+  <Product xsi:type="CDProduct" name="Song2" price="1050" size="2" />
+  <Product xsi:type="CDProduct" name="Song3" price="500" size="3" />
+</ArrayOfProduct>

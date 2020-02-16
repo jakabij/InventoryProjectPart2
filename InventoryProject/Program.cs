@@ -18,9 +18,16 @@ namespace InventoryProjectPart2
             storeManager.AddCDProduct("Song2", 1050, 2);
             storeManager.AddCDProduct("Song3", 500, 3);
 
+            StorageCapable storage2 = new PersistentCsvStore();
+            storeManager.AddStorage(storage2);
 
+            storeManager.AddBookProduct("Star Wars2", 300, 40);
+            storeManager.AddBookProduct("Game of Thrones2", 499, 200);
 
-           Console.WriteLine("In the store: "+storeManager.ListProducts());
+            storeManager.AddCDProduct("Song66", 21, 1);
+            storeManager.AddBookProduct("Game of Thrones2", 499, 200);
+
+            Console.WriteLine("In the store: "+storeManager.ListProducts());
         }
     }
 }
